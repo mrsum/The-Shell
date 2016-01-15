@@ -232,7 +232,6 @@ mark {
 
 code, tt {
     padding: 1px 3px;
-    /*font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace;*/
     font-family: "Courier New", Courier, monospace;
     font-size: 0.75em;
     white-space: pre;
@@ -248,7 +247,6 @@ pre {
     border: 1px solid #424a5a;
     width: 100%;
     padding: 10px;
-    /*font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace;*/
     font-family: "Courier New", Courier, monospace;
     font-size: 0.8em;
     white-space: pre;
@@ -378,20 +376,17 @@ button, input, select, textarea {
     background-size: cover;
 }
 
-/* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
-   
 #blog-logo {
     width: 100px;
     border-radius: 50%;
     overflow: hidden;
     display: block;
     margin: 0 auto;
-    border: 5px solid #bf6165;
-
 }
+
 #blog-logo:before {  
-     width: 100px;
-     height: 100px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     overflow: hidden;
     display: block;
@@ -407,8 +402,7 @@ button, input, select, textarea {
     -moz-transition: background .3s linear;  
     -webkit-transition: background .3s linear;  
     -o-transition: background .3s linear;  
-    transition: background .3s linear;  
-    border: 5px solid #bf6165;
+    transition: background .3s linear;
 
 }
 
