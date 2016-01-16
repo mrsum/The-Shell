@@ -192,7 +192,7 @@ blockquote p {
 blockquote small {
     display: inline-block;
     margin: 0.8em 0 0.8em 1.5em;;
-    font-size:0.9em;
+    font-size: 0.7em;
     color: #ccc;
 }
 
@@ -271,7 +271,7 @@ kbd {
     border: #ccc 1px solid;
     color: #666;
     text-shadow: #fff 0 1px 0;
-    font-size: 0.9em;
+    font-size: 0.7em;
     font-weight: bold;
     background: #f4f4f4;
     border-radius: 4px;
@@ -486,7 +486,7 @@ button, input, select, textarea {
 
 .post-excerpt p {
     margin: 1.6rem 0 0 0;
-    font-size: 0.9em;
+    font-size: 0.7em;
     line-height: 1.6em;
 }
 
@@ -843,7 +843,7 @@ button, input, select, textarea {
     }
 
     .post {
-        font-size: 0.9em;
+        font-size: 0.7em;
         line-height: 1.6em;
     }
 
@@ -859,7 +859,7 @@ button, input, select, textarea {
     }
 
     h1 {
-        font-size: 4.8rem;
+        font-size: 2.8rem;
         text-indent: -2px;
     }
 
